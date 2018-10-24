@@ -1,0 +1,13 @@
+body{
+    background: #007ACC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-header{
+    text-align: center;
+}
+
+#main-header h1{
+    font-weight: bold;
+    color: #fff;
+}
